@@ -1,2 +1,4 @@
-# Meu_repositorio_de_autenticacoes
+Meu Repositório de Autenticações
 Repositório de Teste de Autenticações
+
+1. Autenticação via Token de acesso pessoal.

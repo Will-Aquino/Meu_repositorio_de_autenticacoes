@@ -3,4 +3,4 @@
 Repositório de Teste de Autenticações.
 
 1. Autenticação via Token de acesso pessoal;
-2. Inclusão da Autenticação de SSH.
+2. Alteração para Autenticação de SSH.
